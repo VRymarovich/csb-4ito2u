@@ -1,0 +1,2 @@
+body{font-family:sans-serif;margin:0}.main{display:flex;justify-content:center;align-items:center;height:100vh;width:100%}.screen{width:108px;height:192px;background:#000;overflow:hidden}.line{display:flex;flex-direction:row}.line,.words{width:fit-content}.words{padding-left:10px;white-space:nowrap;text-transform:uppercase;color:transparent;-webkit-text-stroke:1px #fff;font-weight:900;font-family:Roboto}.solid{color:#fff}.wrapper{background:#008f8f}
+/*# sourceMappingURL=/csb-4ito2u/src.6684ac84.css.map */
